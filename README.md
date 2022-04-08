@@ -8,6 +8,8 @@
 
 ## - [Complementing a Strand of DNA](#Complementing-a-Strand-of-DNA)
 
+## - [Counting Point Mutations](#Counting-Point-Mutations)
+
 # Counting DNA Nucleotides 
 
 A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
@@ -56,5 +58,21 @@ of length at most 1000 bp.
 
 Return: The reverse complement sc
 of s.
+
+### - [Ir al índice](#Indice).
+
+# Counting Point Mutations
+
+Given two strings s and t of equal length, the Hamming distance between s and t, denoted dH(s,t), is the number of corresponding symbols that differ in s and t
+
+. See Figure 2.
+
+Given: Two DNA strings s
+and t
+
+of equal length (not exceeding 1 kbp).
+
+Return: The Hamming distance dH(s,t)
+.
 
 ### - [Ir al índice](#Indice).
