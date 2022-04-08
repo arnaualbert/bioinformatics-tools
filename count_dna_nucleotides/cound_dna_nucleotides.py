@@ -2,6 +2,7 @@ from pathlib import Path
 
 def get_dna_nucleotides(fasta: str):
 
+    # count the total of each base
     a = fasta.count('A')
     t = fasta.count('T')
     c = fasta.count('C')
