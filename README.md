@@ -2,9 +2,9 @@
 
 # Indice
 
-## - [Counting DNA Nucleotides](#Counting_DNA_Nucleotides)
+## - [Counting DNA Nucleotides](#Counting-DNA-Nucleotides)
 
-## - [Transcribing DNA into RNA](#Transcribing_DNA_into_RNA)
+## - [Transcribing DNA into RNA](#Transcribing-DNA-into-RNA)
 
 # Counting DNA Nucleotides 
 
