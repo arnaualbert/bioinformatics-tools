@@ -20,8 +20,7 @@ Given: A DNA string s
 
 of length at most 1000 nt.
 
-Return: Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in s
-.
+Return: Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in s.
 
 ### - [Ir al índice](#Indice).
 
@@ -30,16 +29,13 @@ Return: Four integers (separated by spaces) counting the respective number of ti
 An RNA string is a string formed from the alphabet containing 'A', 'C', 'G', and 'U'.
 
 Given a DNA string t
-corresponding to a coding strand, its transcribed RNA string u is formed by replacing all occurrences of 'T' in t with 'U' in u
-
-.
+corresponding to a coding strand, its transcribed RNA string u is formed by replacing all occurrences of 'T' in t with 'U' in u.
 
 Given: A DNA string t
 
 having length at most 1000 nt.
 
-Return: The transcribed RNA string of t
-.
+Return: The transcribed RNA string of t.
 
 ### - [Ir al índice](#Indice).
 
@@ -72,7 +68,6 @@ and t
 
 of equal length (not exceeding 1 kbp).
 
-Return: The Hamming distance dH(s,t)
-.
+Return: The Hamming distance dH(s,t).
 
 ### - [Ir al índice](#Indice).
