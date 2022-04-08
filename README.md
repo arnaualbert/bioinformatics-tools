@@ -1,4 +1,4 @@
-# rosalind-solutions
+# Bioinformatics Tools
 
 # Indice
 
