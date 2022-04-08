@@ -1,6 +1,6 @@
 # Bioinformatics Tools
 
-# Indice
+# index
 
 ## - [Counting DNA Nucleotides](#Counting-DNA-Nucleotides)
 
@@ -22,7 +22,7 @@ of length at most 1000 nt.
 
 Return: Four integers (separated by spaces) counting the respective number of times that the symbols 'A', 'C', 'G', and 'T' occur in s.
 
-### - [Ir al índice](#Indice).
+### - [go to index](#index).
 
 # Transcribing DNA into RNA
 
@@ -37,7 +37,7 @@ having length at most 1000 nt.
 
 Return: The transcribed RNA string of t.
 
-### - [Ir al índice](#Indice).
+### - [go to index](#index).
 
 # Complementing a Strand of DNA
 
@@ -55,7 +55,7 @@ of length at most 1000 bp.
 Return: The reverse complement sc
 of s.
 
-### - [Ir al índice](#Indice).
+### - [go to index](#index).
 
 # Counting Point Mutations
 
@@ -70,4 +70,4 @@ of equal length (not exceeding 1 kbp).
 
 Return: The Hamming distance dH(s,t).
 
-### - [Ir al índice](#Indice).
+### - [go to index](#index).
